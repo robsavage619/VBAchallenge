@@ -1,19 +1,61 @@
-# VBA-challenge-RRS
+# Stock Market Analysis with VBA
 
-The code written for the VBA Challenge takes data from multiple years of stock exchange data to determine a few key takeaways from each particular year
- 
- The data points outlined are as follows:
- 
- 
- Yearly Change: measuring the opening stock price the beginning of the calendar year against the final closing price at the end of the year. 
- 
- Percent Change: this measures the size of the differential of the opening and closing prices in a more digestible form.
- 
- Total Stock Volume: this aggregates the entire year's worth of volume into one large figure. Giving the user an idea of size of the stock in question.
- 
- 
- This program can be run on large to small data sets and help users gather snapshots in a significantly shorter amount of time. 
- 
- Built with: Excel VBA
- 
- Author: Rob Savage
+![Stock Market](Images/stock-market-thumb.jpg)
+
+---
+
+![Visualization](Images/excel-gif-1.gif "Code Walkthrough")
+
+---
+
+## Contact Information
+
+Rob Savage 
+
+rob.savage@me.com
+
+[LinkedIn](https://www.linkedin.com/in/robsavage/)
+
+
+[Tableau Public](https://public.tableau.com/profile/rob.savage)
+
+---
+
+## Project Description
+
+The purpose of this project was to utilize VBA to analyze stock data. This was my first venture into the world of coding and I immediately understood how inefficient Excel was at dealing with relatively large data sets.
+
+---
+
+## Tools Used
+
+1. Excel/VBA
+
+2. Github (Publishing of Results and Analysis)
+
+
+---
+
+## Objectives
+
+Create a script that will loop through all the stocks for one year and output the following information.
+
+
+- The ticker symbol.
+
+
+- Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+
+
+- The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
+
+
+- The total stock volume of the stock.
+
+
+![Visualization](Images/2014.png "2014")
+
+![Visualization](Images/2015.png "2015")
+
+![Visualization](Images/2016.png "2016")
+
